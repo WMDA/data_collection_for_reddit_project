@@ -4,6 +4,7 @@
 ## Install sentiment package
 
 ```bash
+python -m spacy download en_core_web_sm
 pip install -e path_to_folder
 ```
 > path_to_folder is the path to the location of setup.py, if in current directory use `./`

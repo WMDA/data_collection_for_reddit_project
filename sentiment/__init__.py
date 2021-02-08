@@ -1,1 +1,2 @@
 from sentiment.RedditCollector import RedditCollector
+from sentiment.nlp.RedditText import RedditText
